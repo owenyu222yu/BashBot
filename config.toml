@@ -2,7 +2,7 @@
 prefixes = [ "$", ".bash",]
 
 [discord]
-token = "TOKEN_HERE"
+token = "OTE4Njg4MzA5MTU5NTI2NTIx.YbK5KQ.HRd1CoiCgVT6vHW0Y-gjUOaw9XU"
 presence = "{prefix}.help"
 disable_dm = true
 enable_users_whitelist = true
